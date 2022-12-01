@@ -1,0 +1,43 @@
+.form{
+    border: 1px solid #3a9dc7;
+    background-color: hsl(0, 0%, 0%);
+    border-radius: 5px;
+    padding: 20px;
+ }
+
+ .comments{
+    margin-top: 5%;
+    margin-left: 20px;
+}
+
+h2,h4,h5{
+    color: white;
+    font-weight: bold;
+}
+
+.darker{
+    border: 1px solid #3a9dc7;
+    background-color: black;
+    float: left;
+    border-radius: 5px;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-top: 10px;
+}
+.divComments{
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group p a{
+    color: white;
+}
+
+/* .form-control {
+    height: 50px;
+    border-radius: 0;
+    background-color: #876f49;
+    color: white;
+    border-color: white;
+    border-width: 1.3px;
+  } */

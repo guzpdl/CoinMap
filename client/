@@ -1,0 +1,112 @@
+[33mcommit 515a1191d7b78d30e2d5ffc13f0e3fb311f45bfa[m[33m ([m[1;36mHEAD -> [m[1;32mconchudo[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: ac9c8a2 cfd2cf8
+Author: Guzman <guzpdl@gmail.com>
+Date:   Tue Oct 4 13:08:30 2022 +0200
+
+    Merge branch 'master' of https://github.com/guzpdl/CoinMap-client
+
+[33mcommit ac9c8a2300cf14f6b2c601c1046e4d3731d8e6ff[m
+Author: Guzman <guzpdl@gmail.com>
+Date:   Tue Oct 4 13:08:08 2022 +0200
+
+    profile page
+
+[33mcommit cfd2cf8267c5c8f23f24a229832b9aadc4c8afe9[m
+Author: juca25 <jserranocucarella@gmail.com>
+Date:   Tue Oct 4 13:04:14 2022 +0200
+
+    global
+
+[33mcommit bb888bc26aedef238ad3cddd73757099e067db96[m
+Merge: 611a542 84f9256
+Author: Guzman <guzpdl@gmail.com>
+Date:   Mon Oct 3 13:26:12 2022 +0200
+
+    Merge branch 'master' of https://github.com/guzpdl/CoinMap-client
+
+[33mcommit 611a5428bb97013023b69d40ee821f43e977a1cc[m
+Author: Guzman <guzpdl@gmail.com>
+Date:   Mon Oct 3 13:23:58 2022 +0200
+
+    auth cosas, profile edit, favorites(unfinished)
+
+[33mcommit 84f9256ad93212095551411fdf6b358b8ada33ca[m
+Author: juca25 <jserranocucarella@gmail.com>
+Date:   Mon Oct 3 13:19:28 2022 +0200
+
+    carousel and edits
+
+[33mcommit 04440faf0c618ca598acbdc7a6e923f846b7158d[m
+Author: juca25 <jserranocucarella@gmail.com>
+Date:   Fri Sep 30 18:32:12 2022 +0200
+
+    carousel + style
+
+[33mcommit 5ff8de255a5e792c44b82fd560bacd74c94a6619[m
+Merge: 026c00a 090a22f
+Author: Guzman <guzpdl@gmail.com>
+Date:   Fri Sep 30 11:49:39 2022 +0200
+
+    Merge branch 'master' of https://github.com/guzpdl/CoinMap-client
+
+[33mcommit 026c00a0bc683c0873493599c67338bdf8041e7f[m
+Author: Guzman <guzpdl@gmail.com>
+Date:   Fri Sep 30 11:44:30 2022 +0200
+
+    commit mejoras
+
+[33mcommit 090a22f6b4f6612ffec0ee5a451aa7ff0a43f0fd[m
+Author: juca25 <jserranocucarella@gmail.com>
+Date:   Fri Sep 30 10:12:54 2022 +0200
+
+    details page
+
+[33mcommit 4961b13bb281cdbecb5f15cc5ddc98e88e9c5888[m
+Merge: 1384e56 5a01c08
+Author: Guzman <guzpdl@gmail.com>
+Date:   Thu Sep 29 11:25:33 2022 +0200
+
+    Merge branch 'master' of https://github.com/guzpdl/CoinMap-client
+
+[33mcommit 1384e5628a74fffb0d55fd9c01382de1aab3294c[m
+Author: Guzman <guzpdl@gmail.com>
+Date:   Thu Sep 29 11:22:58 2022 +0200
+
+    auth login signup
+
+[33mcommit 5a01c08ee9f458583bb99eb3d89bcdc73a3d062c[m
+Author: juca25 <jserranocucarella@gmail.com>
+Date:   Thu Sep 29 11:21:07 2022 +0200
+
+    list and components
+
+[33mcommit 223dc5545d22a92829f605d533b69a14851847a6[m
+Merge: 78d3715 635d3eb
+Author: juca25 <jserranocucarella@gmail.com>
+Date:   Wed Sep 28 16:43:50 2022 +0200
+
+    without conflics
+
+[33mcommit 78d3715dfc0bb0ab086504a96bb15bb516773abd[m
+Author: juca25 <jserranocucarella@gmail.com>
+Date:   Wed Sep 28 16:39:38 2022 +0200
+
+    list +utils
+
+[33mcommit 635d3ebb17d973d8ca04f12d0d00236429bea1b7[m
+Author: Guzman <guzpdl@gmail.com>
+Date:   Wed Sep 28 16:38:32 2022 +0200
+
+    navbar, logiin y signup modals
+
+[33mcommit d3771f1b665a4a734ba600d70e08b8a7953b0b52[m
+Author: Guzman <guzpdl@gmail.com>
+Date:   Wed Sep 28 12:23:25 2022 +0200
+
+    all isntalled
+
+[33mcommit 2a660334fbee32271d3aed4f10d89443e389b12e[m
+Author: Guzman <guzpdl@gmail.com>
+Date:   Wed Sep 28 12:14:32 2022 +0200
+
+    Initialize project using Create React App
